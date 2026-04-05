@@ -8,9 +8,13 @@ Projede, farklı ilçelere, oda tiplerine ve metrekareye göre kira dağılımla
 ![Dashboard](Dashboard_rent.png)
 
 -KPI kartları ile ortalama ve maksimum kira analizi
+
 -İlçelere göre kira dağılımı (Bar Chart)
+
 -Metrekare ve kira ilişkisi (Scatter Plot)
+
 -Oda tipine göre kira analizi (Column Chart)
+
 -Harita üzerinden lokasyon bazlı kira dağılımı
 
 
