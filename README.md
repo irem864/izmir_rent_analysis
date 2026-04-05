@@ -86,24 +86,33 @@ Slicer: İlçe, Oda Sayısı, Isınma Tipi
 ### Projenin Amacı
 
 Gerçek hayat problemine veri analizi ile yaklaşmak
+
 Power BI ile dashboard geliştirme becerisini göstermek
+
 Veri üzerinden anlamlı içgörüler üretmek
 
 
 ### Öne Çıkan Beceriler
 
 Power BI Dashboard Development
+
 DAX ile hesaplama oluşturma
+
 Veri görselleştirme teknikleri
+
 Veri analizi ve yorumlama
 
 
 ### Elde Edilen İçgörüler
 
 İzmir’de kira fiyatları ilçelere göre önemli farklılıklar göstermektedir
+
 Sahil bölgelerine yakın ilçelerde kira seviyeleri daha yüksektir
+
 Metrekare arttıkça kira fiyatı artış göstermektedir
+
 2+1 daireler piyasada en yaygın segmenttir
+
 Eski binalarda kira fiyatları daha düşük seviyededir
 
 
@@ -118,10 +127,15 @@ The analysis focuses on rent distribution across districts, room types, and prop
 ![Dashboard](Dashboard_rent.png)
 
 -KPI cards for average and maximum rent analysis
+
 -Rent distribution by district (Bar Chart)
+
 -Relationship between size and rent (Scatter Plot)
+
 -Rent analysis by room type (Column Chart)
+
 -Location-based rent visualization using map
+
 
 
 ### Data Model
@@ -129,7 +143,9 @@ The analysis focuses on rent distribution across districts, room types, and prop
 ![Data Model](view_rent.png)
 
 -Single table data model
+
 -Clean and simple structure
+
 -Analysis-focused design
 
 ### Dataset
@@ -139,12 +155,19 @@ The dataset used in this project was manually created and optimized for analysis
 Includes:
 
 District
+
 Neighborhood
+
 Rent
+
 Rooms
+
 Size (m²)
+
 Building Age
+
 Floor
+
 Heating Type
 
 ### DAX Measures
@@ -165,16 +188,23 @@ izmir_rent[Rooms] = "2+1"
 ### Visualizations
 
 KPI Cards: Average Rent, Maximum Rent, Rent per m²
+
 Bar Chart: Average Rent by District
+
 Scatter Plot: Rent vs Size
+
 Column Chart: Rent by Room Type
+
 Map: Rent distribution by district
+
 Slicers: District, Rooms, Heating Type
 
 ### Purpose
 
 Solve a real-world problem using data analysis
+
 Demonstrate Power BI dashboard skills
+
 Generate actionable insights from data
 
 ### Skills Highlighted
