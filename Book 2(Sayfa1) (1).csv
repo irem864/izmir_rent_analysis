@@ -1,0 +1,16 @@
+﻿District;Neighborhood;Rent;Rooms;Size_m2;Building_Age;Floor;Heating_Type
+Konak;Alsancak;25000;2+1;85;10;3;Doğalgaz
+Karşıyaka;Bostanlı;22000;2+1;90;8;2;Doğalgaz
+Bornova;Kazımdirik;18000;1+1;70;5;4;Klima
+Buca;Şirinyer;15000;2+1;95;15;1;Doğalgaz
+Çiğli;Ataşehir;14000;2+1;100;20;2;Merkezi
+Balçova;Eğitim;20000;2+1;85;7;3;Doğalgaz
+Gaziemir;Atıfbey;17000;1+1;75;6;5;Klima
+Narlıdere;Sahil;28000;3+1;120;12;2;Doğalgaz
+Bayraklı;Mansuroğlu;23000;2+1;88;9;6;Doğalgaz
+Karabağlar;Bozyaka;16000;2+1;92;18;1;Merkezi
+Menemen;Ulukent;13000;2+1;105;22;2;Soba
+Torbalı;Ayrancılar;12000;2+1;110;25;1;Soba
+Seferihisar;Sığacık;19000;2+1;95;10;2;Klima
+Urla;Merkez;27000;3+1;130;14;2;Doğalgaz
+Foça;Yenifoça;21000;2+1;100;11;1;Klima
