@@ -23,8 +23,11 @@ Projede, farklı ilçelere, oda tiplerine ve metrekareye göre kira dağılımla
 ![Data Model](view_rent.png)
 
 -Tek tablo üzerinden veri analizi
+
 -Temiz ve sade veri modeli
+
 -Analiz odaklı veri yapısı
+
 
 
 ### Veri Seti
@@ -34,12 +37,19 @@ Proje kapsamında kullanılan veri seti manuel olarak oluşturulmuş ve analiz i
 ## İçerdiği alanlar:
 
 District (İlçe)
+
 Neighborhood (Mahalle)
+
 Rent (Kira)
+
 Rooms (Oda Sayısı)
+
 Size_m2 (Metrekare)
+
 Building_Age
+
 Floor
+
 Heating_Type
 
 
@@ -60,11 +70,17 @@ izmir_rent[Rooms] = "2+1"
 ### Görselleştirmeler
 
 KPI Kartları: Ortalama Kira, Maksimum Kira, m² Başına Kira
+
 Bar Chart: İlçeye Göre Ortalama Kira
+
 Scatter Plot: Kira vs Metrekare
+
 Column Chart: Oda Tipine Göre Kira
+
 Map: İlçeye Göre Kira Dağılımı
+
 Slicer: İlçe, Oda Sayısı, Isınma Tipi
+
 
 
 ### Projenin Amacı
